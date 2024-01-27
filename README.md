@@ -1,5 +1,6 @@
-In this data analytics project, I explored a dataset containing information about patients and their heart health. After loading and inspecting the data, I conducted thorough data cleaning by handling missing values and dropping irrelevant columns. The Exploratory Data Analysis (EDA) involved visualizations and insights into various factors affecting heart health, such as age, gender, blood pressure, and cholesterol levels.
-Key steps in the project include:
+<h3>In this data analytics project, I explored a dataset containing information about patients and their heart health. After loading and inspecting the data, I conducted thorough data cleaning by handling missing values and dropping irrelevant columns. The Exploratory Data Analysis (EDA) involved visualizations and insights into various factors affecting heart health, such as age, gender, blood pressure, and cholesterol levels.</h3>
+
+<b>Key steps in the project include:</b>
 
 Data Cleaning: Removed irrelevant columns and handled missing values.
 
