@@ -1,4 +1,10 @@
-<p>In this data analytics project, I explored a dataset containing information about patients and their heart health. After loading and inspecting the data, I conducted thorough data cleaning by handling missing values and dropping irrelevant columns. The Exploratory Data Analysis (EDA) involved visualizations and insights into various factors affecting heart health, such as age, gender, blood pressure, and cholesterol levels.</p>
+<h4 style={line-height:'10px'}>In this data analytics project, I explored a dataset containing information about patients and their heart health. After loading and inspecting the data, I conducted thorough data cleaning by handling missing values and dropping irrelevant columns. The Exploratory Data Analysis (EDA) involved visualizations and insights into various factors affecting heart health, such as age, gender, blood pressure, and cholesterol levels.</h4>
+
+<img 
+  src='![Screenshot - 2024-02-01T163131 182](https://github.com/crocmons/Patient-Heart-Disease-Analysis/assets/106610322/f68e6c50-e262-4839-a992-d9edad9e3748)
+'
+  alt='img'
+/>
 
 <h2>Key steps in the project include:</h2>
 
